@@ -1,0 +1,26 @@
+{
+  "name": "web0410",
+  "version": "0.0.0",
+  "description": "PUT and GET with Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyagrd/web0410.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "Ki Yung Ahn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyagrd/web0410/issues"
+  },
+  "homepage": "https://github.com/kyagrd/web0410#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
