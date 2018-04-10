@@ -1,7 +1,7 @@
 {
   "name": "web0410",
   "version": "0.0.0",
-  "description": "PUT and GET with Express",
+  "description": "GET and POST with Express",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/kyagrd/web0410#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.16.3"
   }
 }
