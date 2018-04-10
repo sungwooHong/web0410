@@ -1,2 +1,2 @@
 # web0410
-PUT and GET with Express
+GET and POST with Express
